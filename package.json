@@ -1,0 +1,26 @@
+{
+  "name": "find-basis-3d",
+  "version": "0.0.0",
+  "description": "Finds an orthonormal basis with at least one vector parallel to a given vector",
+  "main": "find-basis.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/find-basis-3d.git"
+  },
+  "keywords": [
+    "basis",
+    "plane",
+    "normal"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/find-basis-3d/issues"
+  }
+}
