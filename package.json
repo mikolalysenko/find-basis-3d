@@ -1,6 +1,6 @@
 {
   "name": "find-basis-3d",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Finds an orthonormal basis with at least one vector parallel to a given vector",
   "main": "find-basis.js",
   "directories": {
